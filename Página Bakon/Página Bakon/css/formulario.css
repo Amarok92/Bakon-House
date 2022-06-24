@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background: #07090a; 
+    color: rgba(208, 18, 18, 0.752);
+    line-height: 1.5;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0 1.5em;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(218, 211, 216);
+    text-align: center;
+    margin: 0 0 1rem 0
+    
+}
+
+legend{
+    background-color: rgba(240, 12, 27, 0.863);
+    text-align: center;
+    background: #181818;
+    color: rgba(255, 255, 255, 0.404);
+    line-height: 1.6;
+    width:20%;
+	height:20px;
+				
+	margin:8px 0;
+	/*resize: vertical | horizontal | none | both*/
+	resize:none;
+	display:block;
+}
+
+label{
+    color: rgba(16, 230, 180, 0.39);
+}
+
+.type{
+    text-align: center;
+}
+
+textarea{
+    text-align: center;
+    font-size: 1em;
+}
+
+.comentarios{
+    color: rgba(12, 51, 51, 0.562);
+}
+
+svg{
+    color: rgb(128, 56, 54);
+}
+
+.regre{
+    color: aliceblue;
+    text-decoration: none;
+    
+}
+
+.logotipo{
+    text-decoration: none;
+}
